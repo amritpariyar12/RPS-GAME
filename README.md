@@ -1,1 +1,1 @@
-# RPS-GAME
+# RPS-GAME to practice js.
